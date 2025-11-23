@@ -41,7 +41,7 @@ A simple web application to merge PDF files with automatic page numbering and bl
 
 3. Open your browser and navigate to:
    ```
-   http://localhost:5000
+   http://localhost:5010
    ```
 
 ## Usage
